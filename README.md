@@ -1,7 +1,7 @@
 # Shopping Spot
 Proyecto realizado en lenguaje Java para dispositivos Android, para la materia "Ingeniería de Software" de la Escuela Superior de Cómputo (ESCOM) del Instituto Politécnico Nacional (IPN).
 
-### Realizado en el año 2019. Lenguaje Java. IDE Android Studio.
+### Realizado en el año 2019. Lenguaje Java. SQLite. IDE Android Studio.
 
 ## Problemática
 El proyecto está enfocado a usuarios que carecen de tiempo para revisar los artículos que tienen en su alacena, mostrando una necesidad de no poder saber si un artículo esta por acabarse, si ya cuentan con este producto en su alacena, o el producto aún es suficiente pero ya expiró.
